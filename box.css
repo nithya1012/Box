@@ -2,7 +2,7 @@ body{
     margin: 50;
 }
 .box{
-    display: flexs;
+    display: flex;
     width: 400px;
     height: 250px;
     background-color: violet;
